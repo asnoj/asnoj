@@ -1,4 +1,4 @@
-<h1 align="center">hey, moi c'est asnoj 🦔</h1>
+<h1 align="center">🦔 HERISSON 🦔</h1>
 
 <p align="center">
 ⠀⠀⠀⠀⠀⠀⢠⠠⣆⢆⢶⢴⢄⣦⢊⠴⡘⢆⢤⡞⢢⡤⠀⠀⠀⠀⠀⠀⠀⠀<br>
@@ -43,9 +43,9 @@ direction cyber, à coups de projets perso et de café c:
 
 **[hedgemon](https://github.com/asnoj/hedgmon)** — moniteur système en C fait maison, zéro dépendance, qui lit tout direct dans `/proc` (CPU, RAM, process, connexions réseau). parce que `htop` existe déjà, mais où serait le fun dans ça
 
-**minishell** — projet 42, un shell maison en C (parsing, pipes, redirections, gestion des process). la base de tout ce que je comprends maintenant sur comment un terminal fonctionne vraiment
+**[minishell](https://github.com/asnoj/minishell)** — projet 42, un shell maison en C (parsing, pipes, redirections, gestion des process). la base de tout ce que je comprends maintenant sur comment un terminal fonctionne vraiment
 
-**push_swap** — projet 42, algorithme de tri de piles avec un nombre d'opérations minimal. moins de code, mais fallait vraiment réfléchir avant de taper
+**[push_swap](https://github.com/asnoj/push_swap)** — projet 42, algorithme de tri de piles avec un nombre d'opérations minimal. moins de code, mais fallait vraiment réfléchir avant de taper
 
 *(d'autres arrivent au fur et à mesure que j'avance en cyber — CTF writeups, scanner réseau, outils d'analyse...)*
 
