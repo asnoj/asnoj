@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-étudiant en train de se faire des griffes en C, en C++ et en système,<br>
+étudiant en C, en C++ et en système,<br>
 direction cyber, à coups de projets perso et de café c:
 </p>
 
@@ -43,7 +43,11 @@ direction cyber, à coups de projets perso et de café c:
 
 **[hedgemon](https://github.com/asnoj/hedgmon)** — moniteur système en C fait maison, zéro dépendance, qui lit tout direct dans `/proc` (CPU, RAM, process, connexions réseau). parce que `htop` existe déjà, mais où serait le fun dans ça
 
-*(d'autres arrivent au fur et à mesure que j'avance en cyber — CTF writeups, scanner réseau, outils d'analyse... la liste va pousser comme un hérisson qui prend confiance)*
+**minishell** — projet 42, un shell maison en C (parsing, pipes, redirections, gestion des process). la base de tout ce que je comprends maintenant sur comment un terminal fonctionne vraiment
+
+**push_swap** — projet 42, algorithme de tri de piles avec un nombre d'opérations minimal. moins de code, mais fallait vraiment réfléchir avant de taper
+
+*(d'autres arrivent au fur et à mesure que j'avance en cyber — CTF writeups, scanner réseau, outils d'analyse...)*
 
 ---
 
