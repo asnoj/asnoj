@@ -16,41 +16,52 @@
 </p>
 
 <p align="center">
-étudiant en C, en C++ et en système,<br>
-direction cyber, à coups de projets perso et de café c:
+C, C++, and systems student heading into cybersecurity,<br>
+powered by side projects and way too much coffee c:
 </p>
 
 ---
 
-### c: ce que je fais
+### c: what I do
 
-- je code en **C** et **C++**, surtout des trucs bas niveau — hooks, parsing système, manipulation mémoire
-- je creuse le côté **cybersécurité** : pentest, CTF, compréhension des mécanismes offensifs/défensifs
-- j'apprends en construisant des outils plutôt qu'en lisant des cours, l'un n'empêche pas l'autre mais le premier c'est plus marrant
-- objectif : me former sérieusement puis viser une orientation pro en sécu
+- I write code in **C** and **C++**, focusing mostly on low-level systems — hooks, system parsing, and memory management
 
-### >;] stack actuelle
+- I dig deep into **cybersecurity**: pentesting, CTFs, understanding both offensive and defensive mechanics
+
+- I learn by building tools from scratch rather than just reading theory — books are cool, but breaking and building stuff is way more fun
+
+- objective: build solid low-level foundations and pivot into a specialized role in security
+
+
+### >;] current stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### les projets dont je suis fier
+### proudest projects
 
-**[hedgemon](https://github.com/asnoj/hedgmon)** — moniteur système en C fait maison, zéro dépendance, qui lit tout direct dans `/proc` (CPU, RAM, process, connexions réseau). parce que `htop` existe déjà, mais où serait le fun dans ça
+**[inception](https://github.com/asnoj/inception)** — 42 project, a fully containerized LEMP infrastructure built from scratch. Features custom Alpine/Debian Dockerfiles, NGINX TLS 1.2/1.3 reverse proxy, WordPress via PHP-FPM, MariaDB, Docker Secrets, and isolated internal networking.
 
-**[minishell](https://github.com/asnoj/minishell)** — projet 42, un shell maison en C (parsing, pipes, redirections, gestion des process). la base de tout ce que je comprends maintenant sur comment un terminal fonctionne vraiment
+**[hedgemon](https://github.com/asnoj/hedgmon)** — custom C system monitor with zero dependencies that reads system stats directly from `/proc` (CPU, RAM, processes, network sockets). Because `htop` already exists, but where's the fun in using it?
 
-**[push_swap](https://github.com/asnoj/push_swap)** — projet 42, algorithme de tri de piles avec un nombre d'opérations minimal. moins de code, mais fallait vraiment réfléchir avant de taper
+**[minishell](https://github.com/asnoj/minishell)** — 42 project, a custom shell written in C (parsing, pipes, redirections, process management). The bedrock of everything I now understand about how a terminal actually operates under the hood.
 
-*(d'autres arrivent au fur et à mesure que j'avance en cyber — CTF writeups, scanner réseau, outils d'analyse...)*
+**[push_swap](https://github.com/asnoj/push_swap)** — 42 project, a stack-sorting algorithm optimized for a minimal number of operations. Minimal code, but required serious algorithmic thinking before typing.
+
+*(more coming as I advance in cyber — CTF writeups, network scanners, and custom analysis tools...)*
 
 ---
 
 <p align="center">
-<i>un hérisson qui code, ça pique un peu au début, mais ça progresse c:</i>
+<i>a coding hedgehog: a bit prickly at first, but making steady progress c:</i>
 </p>
