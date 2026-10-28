@@ -54,9 +54,9 @@ powered by side projects and way too much coffee c:
 
 **[hedgemon](https://github.com/asnoj/hedgmon)** — custom C system monitor with zero dependencies that reads system stats directly from `/proc` (CPU, RAM, processes, network sockets). Because `htop` already exists, but where's the fun in using it?
 
-**[minishell](https://github.com/asnoj/minishell)** — 42 project, a custom shell written in C (parsing, pipes, redirections, process management). The bedrock of everything I now understand about how a terminal actually operates under the hood.
+**[hedgepass](https://github.com/asnoj/hedgepass)** — custom CLI password vault written in C/C++. Built with a strong focus on memory safety, encryption, and zero third-party dependencies to securely manage credentials right from the terminal.
 
-**[push_swap](https://github.com/asnoj/push_swap)** — 42 project, a stack-sorting algorithm optimized for a minimal number of operations. Minimal code, but required serious algorithmic thinking before typing.
+**[minishell](https://github.com/asnoj/minishell)** — 42 project, a custom shell written in C (parsing, pipes, redirections, process management). The bedrock of everything I now understand about how a terminal actually operates under the hood.
 
 *(more coming as I advance in cyber — CTF writeups, network scanners, and custom analysis tools...)*
 
